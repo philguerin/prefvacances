@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_debut" label="Date Début" language="en" table="x_560481_pref_vac_periode_de_vacances">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_debut</element>
+            <help/>
+            <hint/>
+            <label>Date Début</label>
+            <language>en</language>
+            <name>x_560481_pref_vac_periode_de_vacances</name>
+            <plural>Date Débuts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-01 21:17:56</sys_created_on>
+            <sys_id>7e7520c607c22010d45ff7fc7c1ed051</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date Début</sys_name>
+            <sys_package display_value="Préférence de vacances" source="x_560481_pref_vac">9fc4a4ca07822010d45ff7fc7c1ed053</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Préférence de vacances">9fc4a4ca07822010d45ff7fc7c1ed053</sys_scope>
+            <sys_update_name>sys_documentation_x_560481_pref_vac_periode_de_vacances_date_debut_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-01 21:17:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

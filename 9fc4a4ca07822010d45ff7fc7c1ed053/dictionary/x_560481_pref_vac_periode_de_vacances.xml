@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Periode De Vacances" max_length="40" name="x_560481_pref_vac_periode_de_vacances" type="collection">
+        <element label="Date Début" max_length="40" name="date_debut" type="glide_date_time"/>
+        <element display="true" label="Date Fin" max_length="40" name="date_fin" type="string"/>
+    </element>
+</database>
